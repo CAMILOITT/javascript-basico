@@ -4,23 +4,23 @@
 
 ```
 .
-├── cadenasTexto
-|  ├── cadenasTexto.js
-│  └── README.md
-|
-├── estructurasControl
+├── controlStructures
 |  ├── factorial-break.js
 |  ├── factorial-for.js
 |  ├── factorial-while.js
 │  └── README.md
 |
-├── numeros
-|  ├── numeros.js
+├── numbers
+|  ├── numbers.js
 │  └── README.md
 |
-├── sintaxisVariables
-|  ├── sintaxisVariables.js
-│  └── README.md
+├── string
+|  ├── README.md
+│  └── string.js
+|
+├── syntax
+|  ├── README.md
+│  └── syntax.js
 |
 ├── package.json
 └── README.md
