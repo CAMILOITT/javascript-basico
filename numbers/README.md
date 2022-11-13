@@ -112,5 +112,17 @@ console.log(parseInt(result, 6));  // 28
 
   - parseFloat(string: valor en tipo string)
 ```
+  const number = 12.43;
+  const string = "12.43";
+  const numberString = "14e-2";
+  const numberString2 = "14e+2";
+  const numberString3 = "14easdf+2";
+  const stringNumber = "asdf12.43";
 
+  console.log(parseFloat(number));  // 12.43
+  console.log(parseFloat(string));  // 12.43
+  console.log(parseFloat(numberString));  // 0.14
+  console.log(parseFloat(numberString2)); // 1400
+  console.log(parseFloat(numberString3)); // 14
+  console.log(parseFloat(stringNumber));  // NaN
 ```
