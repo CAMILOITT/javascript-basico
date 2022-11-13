@@ -4,6 +4,10 @@
 
 ```
 .
+├── arrays
+|  ├── factorial-while.js
+│  └── README.md
+|
 ├── controlStructures
 |  ├── factorial-break.js
 |  ├── factorial-for.js
