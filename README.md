@@ -1,4 +1,4 @@
-# JAVASCRIPT-BASICO
+# JAVASCRIPT-BÁSICO
 
 ## ESTRUCTURA DE CARPETAS
 
@@ -16,6 +16,13 @@
 |
 ├── numbers
 |  ├── numbers.js
+│  └── README.md
+|
+├── objects
+|  ├── aboutBlank.js
+|  ├── conjuntos.js
+|  ├── fechas.js
+|  ├── objetos.js
 │  └── README.md
 |
 ├── string

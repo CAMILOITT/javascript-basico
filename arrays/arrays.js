@@ -66,3 +66,4 @@ const directorTitleList2 = [...directorList, ...titleList];
 console.log(
   `uniendo la lista de directores y películas con spread operator: ${directorTitleList2}`
 );
+
