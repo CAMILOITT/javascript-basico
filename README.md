@@ -17,6 +17,14 @@
   |  ├── factorial-while.js
   │  └── README.md
   |
+  ├── errors
+  |  ├── errors.js
+  │  └── README.md
+  |
+  ├── function
+  |  ├── function.js
+  │  └── README.md
+  |
   ├── numbers
   |  ├── numbers.js
   │  └── README.md

@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "consola": "echo Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
-    "variable":"node ./",
-    "structureControl":"node ./",
-    "string":"node ./"
+    "variable": "node ./",
+    "structureControl": "node ./",
+    "string": "node ./"
   },
   "repository": {
     "type": "git",

@@ -1,0 +1,5 @@
+{"level":"info","message":"console log para dar información","service":"user-service"}
+{"level":"error","message":"console log para informar errores","service":"user-service"}
+{"level":"info","message":"Información, Información, Información","service":"user-service"}
+{"level":"error","message":"Peligro, Peligro, Peligro, Peligro","service":"user-service"}
+{"level":"warn","message":"advertencia, advertencia, advertencia","service":"user-service"}
