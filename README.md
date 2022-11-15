@@ -18,7 +18,13 @@
   │  └── README.md
   |
   ├── errors
+  |  ├── log
+  |  |  └── index.js
+  |  ├── combined.log
+  |  ├── error.log
   |  ├── errors.js
+  |  ├── package-lock.json
+  |  ├── package.json
   │  └── README.md
   |
   ├── function
@@ -44,6 +50,7 @@
   |  ├── README.md
   │  └── syntax.js
   |
+  ├── package-lock.json
   ├── package.json
   └── README.md
 ```

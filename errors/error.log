@@ -1,2 +1,7 @@
-{"level":"error","message":"console log para informar errores","service":"user-service"}
-{"level":"error","message":"Peligro, Peligro, Peligro, Peligro","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
