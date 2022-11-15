@@ -7,8 +7,16 @@
   ├── arrays
   |  ├── factorial-while.js
   │  └── README.md
+  |
   ├── function
   |  ├── function.js
+  │  └── README.md
+  |
+  ├── modules
+  |  ├── controllers.js
+  |  ├── index.js
+  |  ├── package-lock.json
+  |  ├── package.json
   │  └── README.md
   |
   ├── controlStructures
