@@ -20,21 +20,21 @@ const heightCentimeter = 1.7 * 100;
 const heightMeters = 1.7;
 const heightMetersUp = Math.ceil(height);
 
-//peso
+//  peso
 const weightKilograms = weight;
 const weightKilogramsUp = Math.floor(weight);
 
 const maxValueJs = Number.MAX_VALUE;
 // altura
 console.log(`altura: ${height}cm`);
-console.log(`altura en centimetros: ${heightCentimeter}cm`);
+console.log(`altura en centímetros: ${heightCentimeter}cm`);
 console.log(`altura en metros: ${heightMeters}m`);
-console.log(`altura en metros resondeada hacia arriba: ${heightMeters}m`);
+console.log(`altura en metros redondeada hacia arriba: ${heightMetersUp}m`);
 
 // peso
 console.log(`peso en kilogramos: ${weightKilograms}kg`);
 console.log(`peso en kilogramos redondeado hacia bajo: ${weightKilogramsUp}kg`);
 
 console.log(
-  `el maximo valor que se puede obtener en Javascript + 1 = ${maxValueJs}`
+  `el máximo valor que se puede obtener en Javascript + 1 = ${maxValueJs}`
 );

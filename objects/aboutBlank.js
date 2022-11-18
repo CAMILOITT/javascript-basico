@@ -4,5 +4,7 @@
 
 // - Pregunta al usuario cuál es su edad y almacénala en una variable llamada edad
 
-age = prompt('dime tu edad');
+let age = prompt('dime tu edad');
 age = Number(age);
+
+console.log(age)

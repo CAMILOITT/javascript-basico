@@ -19,15 +19,22 @@ class Students {
     this.#name = name;
     this.#course = course;
   }
-  setData(newName, newAge) {
-    this.name = newName;
-    this.age = newAge;
+
+  set setName(newName) {
+    this.#name = newName;
   }
+
+  get setName() {
+    return this.#name;
+  }
+
   getData() {
-    return `name student: ${this.#name}, course: ${this.#course} `;
+    return `name student: ${this.#name}, course: ${this.#course}`;
   }
 }
 
 const student = new Students('Camilo', ['Javascript', 'HTML', 'CSS']);
 
 student.getData();
+
+console.log(student.getData());
