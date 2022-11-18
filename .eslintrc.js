@@ -1,15 +1,14 @@
 module.exports = {
   env: {
+    Browser: true,
     node: true,
-    es2021: true
+    es2021: true,
   },
   extends: ['standard', 'eslint-config-prettier'],
-  overrides: [
-  ],
+  overrides: [],
   parserOptions: {
     ecmaVersion: 'latest',
-    sourceType: 'module'
+    sourceType: 'module',
   },
-  rules: {
-  }
-}
+  rules: {},
+};
